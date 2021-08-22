@@ -1,8 +1,8 @@
-### Hi there, I'm Csaba 👋
+## Hi there, I'm Csaba 👋
 
 ## I'm a computer science student and looking to improve my skills!
 
-- 🌱 I’m currently learning Kubernetes, Python and Rust
+- 🌱 I’m currently learning/improving on Kubernetes, Python and Rust
 - 🥅 2021 Goals: Work on some cool self-made projects
 - ⚡ Fun fact: I love to play the organ and soccer
 
