@@ -9,14 +9,19 @@
 ### Connect with me
 
 [<img align="left" alt="CsabaKarsai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CsabaKarsai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+
+[<img align="left" alt="CsabaKarsai | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/64684648/130368026-2dde8c23-949e-40c8-a321-c683a112b96d.jpg" />][linkedin]
+
+[<img align="left" alt="CsabaKarsai | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+
+[<img align="left" alt="CsabaKarsai | Xing" width="22px" src="https://user-images.githubusercontent.com/64684648/130367985-69a067c5-9b7d-4ff0-9351-5dc14e5f5092.jpg" />][xing]
 
 <br />
 <br />
 
 ### Languages and Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="" />][https://code.visualstudio.com/]
 
 <br />
 
@@ -28,3 +33,4 @@
 
 [linkedin]: https://www.linkedin.com/in/csaba-karsai-8709871ba/
 [xing]: https://www.xing.com/profile/Csaba_Karsai/cv
+[VSCode]: https://code.visualstudio.com/
