@@ -39,11 +39,9 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
+### GitHub Stats:
 
 <img align="left" alt="Csabas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CsabaKarsai&show_icons=true&hide_border=true" />
-
-[![Csaba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CsabaKarsai)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/csaba-karsai-8709871ba/
 [xing]: https://www.xing.com/profile/Csaba_Karsai/cv
