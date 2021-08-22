@@ -15,6 +15,8 @@
 <br />
 <br />
 
+---
+
 ### Languages and Tools
 
 [<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/64684648/130368526-8ee1f538-860a-4e98-a591-1a23dce965c8.png" />][java]
