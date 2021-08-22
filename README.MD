@@ -8,11 +8,10 @@
 
 ### Connect with me
 
-[<img align="left" alt="CsabaKarsai | LinkedIn" width="22px" src="https://www.iconsdb.com/black-icons/linkedin-icon.html" />]
-[linkedin]
-[<img align="left" alt="CsabaKarsai | LinkedIn" width="22px" src="https://www.iconsdb.com/black-icons/xing-icon.html" />]
-[xing]
+[<img align="left" alt="CsabaKarsai | LinkedIn" width="22px" src="https://www.iconsdb.com/black-icons/linkedin-icon.html" />][linkedin]
+[<img align="left" alt="CsabaKarsai | LinkedIn" width="22px" src="https://www.iconsdb.com/black-icons/xing-icon.html" />][xing]
 
+<br />
 <br />
 
 ### Languages and Tools
