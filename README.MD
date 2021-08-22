@@ -11,7 +11,7 @@
 
 [<img align="left" alt="CsabaKarsai | LinkedIn" width="50px" src="https://user-images.githubusercontent.com/64684648/130368440-4c6672a1-59fb-4101-b7f8-389be1790a54.png" />][linkedin]
 
-[<img align="left" alt="CsabaKarsai | Xing" width="50px" src="https://user-images.githubusercontent.com/64684648/130368474-6d883775-a6fb-4042-ac80-14755d4f32de.png" />][xing]
+[<img align="left" alt="CsabaKarsai | Xing" width="45px" src="https://user-images.githubusercontent.com/64684648/130368474-6d883775-a6fb-4042-ac80-14755d4f32de.png" />][xing]
 
 <br />
 <br />
