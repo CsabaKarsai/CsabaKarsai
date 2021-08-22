@@ -31,7 +31,7 @@
 [<img align="left" alt="IntelliJ" width="50px" src="https://user-images.githubusercontent.com/64684648/130369420-9fe04a02-9314-46a6-ae11-300f75fde3fb.png" />][intellij]
 
 <br />
-
+<br />
 
 ### GitHub Stats
 
