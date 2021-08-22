@@ -6,6 +6,8 @@
 - 🥅 2021 Goals: Work on some cool self-made projects
 - ⚡ Fun fact: I love to play the organ and soccer
 
+---
+
 ### Connect with me
 
 [<img align="left" alt="CsabaKarsai | LinkedIn" width="50px" src="https://user-images.githubusercontent.com/64684648/130368440-4c6672a1-59fb-4101-b7f8-389be1790a54.png" />][linkedin]
