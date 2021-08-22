@@ -10,7 +10,11 @@
 
 [<img align="left" alt="CsabaKarsai | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/64684648/130368026-2dde8c23-949e-40c8-a321-c683a112b96d.jpg" />][linkedin]
 
+[<img align="left" alt="CsabaKarsai | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/64684648/130368440-4c6672a1-59fb-4101-b7f8-389be1790a54.png" />][linkedin]
+
 [<img align="left" alt="CsabaKarsai | Xing" width="22px" src="https://user-images.githubusercontent.com/64684648/130367985-69a067c5-9b7d-4ff0-9351-5dc14e5f5092.jpg" />][xing]
+
+[<img align="left" alt="CsabaKarsai | Xing" width="22px" src="https://user-images.githubusercontent.com/64684648/130368474-6d883775-a6fb-4042-ac80-14755d4f32de.png" />][xing]
 
 <br />
 <br />
