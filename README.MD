@@ -48,3 +48,5 @@
 [akka]: https://akka.io/
 [vscode]: https://code.visualstudio.com/
 [intellij]: https://www.jetbrains.com/idea/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CsabaKarsai)](https://github.com/anuraghazra/github-readme-stats)
