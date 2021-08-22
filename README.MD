@@ -32,7 +32,7 @@
 <br />
 <br />
 
-<img align="left" alt="Csabas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CsabaKarsai&show_icons=true&hide_border=true" />
+<img align="left" alt="Csabas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CsabaKarsai&show_icons=true&hide_border=true&include_all_commits=true" />
 
 [linkedin]: https://www.linkedin.com/in/csaba-karsai-8709871ba/
 [xing]: https://www.xing.com/profile/Csaba_Karsai/cv
