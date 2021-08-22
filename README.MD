@@ -6,6 +6,8 @@
 - 🥅 2021 Goals: Work on some cool self-made projects
 - ⚡ Fun fact: I love to play the organ and soccer
 
+<br />
+<br />
 
 ## Connect with me
 
@@ -15,7 +17,6 @@
 
 <br />
 <br />
-¬
 
 ## Languages and Tools
 
