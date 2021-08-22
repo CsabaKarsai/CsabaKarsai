@@ -17,17 +17,17 @@
 
 ### Languages and Tools
 
-[<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/64684648/130368526-8ee1f538-860a-4e98-a591-1a23dce965c8.png" />][java]
-[<img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/64684648/130368601-0ca3c2d3-e829-4fdd-a0cf-3b5a35f14b6d.png" />][python]
-[<img align="left" alt="Scala" width="30px" src="https://user-images.githubusercontent.com/64684648/130368745-9e8d1ecc-ee0c-4889-83bd-ff0bc62ce1b2.png" />][scala]
-[<img align="left" alt="MySQL" width="30px" src="https://user-images.githubusercontent.com/64684648/130368798-7463c08b-93bb-4454-9f5f-1e8c2842e20e.png" />][mysql]
-[<img align="left" alt="Terminal" width="30px" src="https://user-images.githubusercontent.com/64684648/130368885-5425c28e-3d4f-4b6a-856a-3bc2bcc76cb7.png" />][terminal]
-[<img align="left" alt="K8s" width="30px" src="https://user-images.githubusercontent.com/64684648/130369047-24fd05bf-4a68-4923-a6fe-d82fbbe1f8d2.png" />][k8s]
-[<img align="left" alt="Terraform" width="30px" src="https://user-images.githubusercontent.com/64684648/130369153-aecf07e8-456f-4cf1-afa8-9e1ed2b91496.png" />][terraform]
-[<img align="left" alt="AWS" width="30px" src="https://user-images.githubusercontent.com/64684648/130369185-ad00a73b-27f5-4e39-b349-20cf845fd489.png" />][aws]
-[<img align="left" alt="Akka" width="30px" src="https://user-images.githubusercontent.com/64684648/130369272-58e47bee-1bd6-4550-9d25-02413c96b167.png" />][akka]
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://user-images.githubusercontent.com/64684648/130369341-87b25098-dca0-48d8-9f3b-0822904feb3f.png" />][vscode]
-[<img align="left" alt="IntelliJ" width="30px" src="https://user-images.githubusercontent.com/64684648/130369420-9fe04a02-9314-46a6-ae11-300f75fde3fb.png" />][intellij]
+[<img align="left" alt="Java" width="50px" src="https://user-images.githubusercontent.com/64684648/130368526-8ee1f538-860a-4e98-a591-1a23dce965c8.png" />][java]
+[<img align="left" alt="Python" width="50px" src="https://user-images.githubusercontent.com/64684648/130368601-0ca3c2d3-e829-4fdd-a0cf-3b5a35f14b6d.png" />][python]
+[<img align="left" alt="Scala" width="50px" src="https://user-images.githubusercontent.com/64684648/130368745-9e8d1ecc-ee0c-4889-83bd-ff0bc62ce1b2.png" />][scala]
+[<img align="left" alt="MySQL" width="50px" src="https://user-images.githubusercontent.com/64684648/130368798-7463c08b-93bb-4454-9f5f-1e8c2842e20e.png" />][mysql]
+[<img align="left" alt="Terminal" width="50px" src="https://user-images.githubusercontent.com/64684648/130368885-5425c28e-3d4f-4b6a-856a-3bc2bcc76cb7.png" />][terminal]
+[<img align="left" alt="K8s" width="50px" src="https://user-images.githubusercontent.com/64684648/130369047-24fd05bf-4a68-4923-a6fe-d82fbbe1f8d2.png" />][k8s]
+[<img align="left" alt="Terraform" width="50px" src="https://user-images.githubusercontent.com/64684648/130369153-aecf07e8-456f-4cf1-afa8-9e1ed2b91496.png" />][terraform]
+[<img align="left" alt="AWS" width="50px" src="https://user-images.githubusercontent.com/64684648/130369185-ad00a73b-27f5-4e39-b349-20cf845fd489.png" />][aws]
+[<img align="left" alt="Akka" width="100px" src="https://user-images.githubusercontent.com/64684648/130369272-58e47bee-1bd6-4550-9d25-02413c96b167.png" />][akka]
+[<img align="left" alt="Visual Studio Code" width="50px" src="https://user-images.githubusercontent.com/64684648/130369341-87b25098-dca0-48d8-9f3b-0822904feb3f.png" />][vscode]
+[<img align="left" alt="IntelliJ" width="50px" src="https://user-images.githubusercontent.com/64684648/130369420-9fe04a02-9314-46a6-ae11-300f75fde3fb.png" />][intellij]
 
 <br />
 
