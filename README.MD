@@ -26,9 +26,8 @@
 [<img align="left" alt="Terraform" width="22px" src="https://user-images.githubusercontent.com/64684648/130369153-aecf07e8-456f-4cf1-afa8-9e1ed2b91496.png" />][terraform]
 [<img align="left" alt="AWS" width="22px" src="https://user-images.githubusercontent.com/64684648/130369185-ad00a73b-27f5-4e39-b349-20cf845fd489.png" />][aws]
 [<img align="left" alt="Akka" width="22px" src="https://user-images.githubusercontent.com/64684648/130369272-58e47bee-1bd6-4550-9d25-02413c96b167.png" />][akka]
-
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/64684648/130369341-87b25098-dca0-48d8-9f3b-0822904feb3f.png" />][vscode]
+[<img align="left" alt="IntelliJ" width="26px" src="https://user-images.githubusercontent.com/64684648/130369420-9fe04a02-9314-46a6-ae11-300f75fde3fb.png" />][intellij]
 
 <br />
 
@@ -50,3 +49,5 @@
 [terraform]: https://www.terraform.io/
 [aws]: https://aws.amazon.com/
 [akka]: https://akka.io/
+[vscode]: https://code.visualstudio.com/
+[intellij]: https://www.jetbrains.com/idea/
