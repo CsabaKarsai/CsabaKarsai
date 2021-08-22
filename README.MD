@@ -1,6 +1,6 @@
 ### Hi there, I'm Csaba 👋
 
-## I'm a Computer Science student and looking to improve my Skils!
+## I'm a Computer Science Student and Looking to Improve my Skills!
 
 - 🌱 I’m currently learning Kubernetes
 - 🥅 2021 Goals: Work on some cool self-made projects
