@@ -34,7 +34,6 @@
 [<img align="left" alt="Visual STudio Code" height="30" src="https://img.shields.io/badge/-VS Code-333?&logo=visualstudiocode&logoColor=blue" />][vscode]
 
 <br />
-<br />
 
 [<img align="left" alt="IntelliJ IDEA" height="30" src="https://img.shields.io/badge/-IntelliJ-333?&logo=intellijidea" />][intellij]
 [<img align="left" alt="Linux" height="30" src="https://img.shields.io/badge/-Linux-333?&logo=Linux&logoColor=white" />][linux]
