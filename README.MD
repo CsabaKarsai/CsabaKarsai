@@ -42,9 +42,6 @@
 <br />
 <br />
 
-<br />
-<br />
-
 ### Stats and Most Used Languages
 
 <img align="left" alt="Csabas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CsabaKarsai&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true" />
