@@ -49,14 +49,11 @@ TODO: Akka, Linux
 [<img align="left" alt="AWS" height="30" src="https://img.shields.io/badge/-AWS-333?&logo=Amazon-AWS&logoColor=F90" />][aws]
 [<img align="left" alt="Akka Framework" height="30" src="https://img.shields.io/badge/-Akka-333?&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzUxIiBoZWlnaHQ9IjM1MSIgdmlld0JveD0iMCAwIDM1MSAzNTEiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTI4Ni43MDcgMjgxLjA4NUMzMzUuNTc4IDMyMC4xMzEgMzY2LjkwNCAyMDMuNTQ5IDI4OS4wMTYgMTgyLjA0N0MyMjMuNjcgMTYzLjk0OCAxNTcuOTExIDE5NC45NzYgOTIuMDA4OCAyNjcuMzQzQzkyLjAwODggMjY3LjM0MyAyMTMuNzIyIDIyMi44NTggMjg2LjcwNyAyODEuMDg1WiIgZmlsbD0iIzBCNTU2NyIvPgogIDxwYXRoIGQ9Ik05My4wOTE1IDI2Ni4zOUMxMzkuOTI0IDIxNy44MzIgMjE3Ljc5OCAxNjMuNjkyIDI5MC4zNjkgMTgzLjY4NEMzMDcuMjU4IDE4OC40NDEgMzE5LjIzIDE5OC4yMzggMzI2Ljk5NyAyMDkuOTQzTDI1OC4zODggNzEuNTg4M0MyNDguNTgyIDU1LjkzODcgMjIzLjUyNyA1OS4yMTM4IDIwOS4zNzUgNzEuMTc1M0wyOC4wMTYzIDIyMy4wMDFDMTEuNTQwOCAyMzcuMTQxIDEwLjU4NTkgMjYyLjMxNyAyNS44MzU3IDI3Ny41NTRDMzkuMzE4MiAyOTEuMDI0IDYwLjY5NjQgMjkyLjI0OSA3NS41MzI5IDI4MC4yNzNMOTMuMDkxNSAyNjYuMzlaIiBmaWxsPSIjMTVBOUNFIi8+Cjwvc3ZnPg==" />][akka]
 [<img align="left" alt="Visual STudio Code" height="30" src="https://img.shields.io/badge/-VS Code-333?&logo=visualstudiocode&logoColor=blue" />][vscode]
+[<img align="left" alt="IntelliJ IDEA" height="30" src="https://img.shields.io/badge/-IntelliJ-333?&logo=intellijidea" />][intellij]
 [<img align="left" alt="Linux" height="30" src="https://img.shields.io/badge/-Linux-333?&logo=Linux&logoColor=white" />][linux]
 
-[<img align="left" alt="" height="30" src="" />][k8s]
-[<img align="left" alt="" height="30" src="" />][terraform]
-[<img align="left" alt="" height="30" src="" />][akka]
-[<img align="left" alt="" height="30" src="" />][vscode]
-[<img align="left" alt="" height="30" src="" />][linux]
-
+<br />
+<br />
 ### Stats and Most Used Languages
 
 <img align="left" alt="Csabas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CsabaKarsai&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true" />
