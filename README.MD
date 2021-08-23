@@ -1,12 +1,12 @@
 ## Hi there, I'm Csaba 👋
 
-## I'm a computer science student and looking to improve my skills!
+### I'm a computer science student and looking to improve my skills!
 
 - 🌱 I’m currently learning/improving on Kubernetes, Python and Rust
 - 🥅 2021 Goals: Work on some cool self-made projects
 - ⚡ Fun fact: I love to play the organ and soccer
 
-## Connect with me
+### Connect with me
 
 [<img align="left" alt="CsabaKarsai | LinkedIn" width="50px" src="https://user-images.githubusercontent.com/64684648/130368440-4c6672a1-59fb-4101-b7f8-389be1790a54.png" />][linkedin]
 
@@ -15,7 +15,7 @@
 <br />
 <br />
 
-## Skills and Tools
+### Skills and Tools
 
 [<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/64684648/130368526-8ee1f538-860a-4e98-a591-1a23dce965c8.png" />][java]
 [<img align="left" alt="Python" width="40px" src="https://user-images.githubusercontent.com/64684648/130368601-0ca3c2d3-e829-4fdd-a0cf-3b5a35f14b6d.png" />][python]
@@ -32,7 +32,16 @@
 <br />
 <br />
 
-## Stats and Most Used Languages
+### Skills and Tools 2
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+### Stats and Most Used Languages
 
 <img align="left" alt="Csabas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CsabaKarsai&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true" />
 
