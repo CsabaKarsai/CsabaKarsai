@@ -30,11 +30,10 @@
 [<img align="left" alt="IntelliJ" width="50px" src="https://user-images.githubusercontent.com/64684648/130502128-9d0a2acd-f997-4c85-853d-dadf13c6e863.png" />][linux]
 [<img align="left" alt="IntelliJ" width="50px" src="https://user-images.githubusercontent.com/64684648/130501223-4d06091f-cc12-4d79-a1ae-4df237831917.png" />][git]
 
-
 <br />
 <br />
 
-## Stats and Top Languages
+## Stats and Most Used Languages
 
 <img align="left" alt="Csabas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CsabaKarsai&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true" />
 
