@@ -15,7 +15,7 @@
 <br />
 <br />
 
-## Languages and Tools
+## Skills and Tools
 
 [<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/64684648/130368526-8ee1f538-860a-4e98-a591-1a23dce965c8.png" />][java]
 [<img align="left" alt="Python" width="40px" src="https://user-images.githubusercontent.com/64684648/130368601-0ca3c2d3-e829-4fdd-a0cf-3b5a35f14b6d.png" />][python]
@@ -27,12 +27,16 @@
 [<img align="left" alt="AWS" width="70px" src="https://user-images.githubusercontent.com/64684648/130369185-ad00a73b-27f5-4e39-b349-20cf845fd489.png" />][aws]
 [<img align="left" alt="Akka" width="120px" src="https://user-images.githubusercontent.com/64684648/130369272-58e47bee-1bd6-4550-9d25-02413c96b167.png" />][akka]
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://user-images.githubusercontent.com/64684648/130369341-87b25098-dca0-48d8-9f3b-0822904feb3f.png" />][vscode]
-[<img align="left" alt="IntelliJ" width="50px" src="https://user-images.githubusercontent.com/64684648/130369420-9fe04a02-9314-46a6-ae11-300f75fde3fb.png" />][intellij]
+[<img align="left" alt="IntelliJ" width="50px" src="https://user-images.githubusercontent.com/64684648/130502128-9d0a2acd-f997-4c85-853d-dadf13c6e863.png" />][linux]
+[<img align="left" alt="IntelliJ" width="50px" src="https://user-images.githubusercontent.com/64684648/130501223-4d06091f-cc12-4d79-a1ae-4df237831917.png" />][git]
+
 
 <br />
 <br />
 
-<img align="left" alt="Csabas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CsabaKarsai&show_icons=true&hide_border=true&include_all_commits=true" />
+## Stats and Top Languages
+
+<img align="left" alt="Csabas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CsabaKarsai&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true" />
 
 [linkedin]: https://www.linkedin.com/in/csaba-karsai-8709871ba/
 [xing]: https://www.xing.com/profile/Csaba_Karsai/cv
@@ -48,5 +52,7 @@
 [akka]: https://akka.io/
 [vscode]: https://code.visualstudio.com/
 [intellij]: https://www.jetbrains.com/idea/
+[linux]: https://en.wikipedia.org/wiki/Linux
+[git]: https://git-scm.com/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CsabaKarsai&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CsabaKarsai&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
