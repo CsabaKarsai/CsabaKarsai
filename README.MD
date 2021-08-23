@@ -18,10 +18,6 @@
 ### Skills and Tools
 
 [<img align="left" alt="Java" height="30" src="https://img.shields.io/badge/-Java-333?&logo=Java&logoColor=orange" />][java]
-
-<br />
-<br />
-
 [<img align="left" alt="Python" height="30" src="https://img.shields.io/badge/-Python-333?&logo=Python" />][python]
 [<img align="left" alt="Scala" height="30" src="https://img.shields.io/badge/-Scala-333?&logo=Scala&logoColor=red" />][scala]
 [<img align="left" alt="MySQL" height="30" src="https://img.shields.io/badge/-MySQL-333?&logo=MySQL" />][mysql]
