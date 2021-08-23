@@ -41,7 +41,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-[<img align="left" alt="AWS" width="70px" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90" />][aws]
+[<img align="left" alt="AWS" width="90px" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90" />][aws]
 ### Stats and Most Used Languages
 
 <img align="left" alt="Csabas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CsabaKarsai&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true" />
