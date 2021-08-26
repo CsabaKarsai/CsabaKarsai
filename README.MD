@@ -63,5 +63,5 @@
 <br />
 <br />
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/CsabaKarsai/CsabaKarsai)]
+[![Repos Badge](https://badges.pufler.dev/repos/CsabaKarsai)]
