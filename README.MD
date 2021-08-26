@@ -57,11 +57,13 @@
 [intellij]: https://www.jetbrains.com/idea/
 [linux]: https://en.wikipedia.org/wiki/Linux
 [docker]: https://www.docker.com/
+[profile]: https://github.com/CsabaKarsai
+[repos]: https://github.com/CsabaKarsai?tab=repositories
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CsabaKarsai&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
 
-[![Visits Badge](https://badges.pufler.dev/visits/CsabaKarsai/CsabaKarsai)]
-[![Repos Badge](https://badges.pufler.dev/repos/CsabaKarsai)]
+[<img align="left" alt="Visitor" height="30" src="https://badges.pufler.dev/visits/CsabaKarsai/CsabaKarsai" />][profile]
+[<img align="left" alt="Visitor" height="30" src="https://badges.pufler.dev/repos/CsabaKarsai" />][profile]
