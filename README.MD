@@ -1,12 +1,12 @@
-## Hi there, I'm Csaba 👋
+# Hi there, I'm Csaba 👋
 
-### I'm a computer science student and looking to improve my skills!
+## I'm a computer science student and looking to improve my skills!
 
 - 🌱 I’m currently learning/improving on Kubernetes, Python and Rust
 - 🥅 2021 Goals: Work on some cool self-made projects
 - ⚡ Fun fact: I love to play the organ and soccer
 
-### Connect with me
+## Connect with me
 
 [<img align="left" alt="CsabaKarsai | LinkedIn" height="30px" src="https://user-images.githubusercontent.com/64684648/130368440-4c6672a1-59fb-4101-b7f8-389be1790a54.png" />][linkedin]
 
@@ -15,7 +15,7 @@
 <br />
 <br />
 
-### Skills and Tools
+## Skills and Tools
 
 [<img align="left" alt="Java" height="30" src="https://img.shields.io/badge/-Java-555?&logo=Java&logoColor=orange" />][java]
 [<img align="left" alt="Python" height="30" src="https://img.shields.io/badge/-Python-555?&logo=Python" />][python]
@@ -37,7 +37,7 @@
 <br />
 <br />
 
-### Stats and Most Used Languages
+## Stats and Most Used Languages
 
 <img align="left" alt="Csabas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CsabaKarsai&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true" />
 
