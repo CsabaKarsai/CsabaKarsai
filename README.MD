@@ -17,7 +17,7 @@
 
 ### Skills and Tools
 
-[<img align="left" alt="Java" height="30" src="https://img.shields.io/badge/-Java-333?&logo=Java&logoColor=orange" />][java]
+[<img align="left" alt="Java" height="30" src="https://img.shields.io/badge/-Java-333?&logo=Java&logoColor=orange&pading=10" />][java]
 [<img align="left" alt="Python" height="30" src="https://img.shields.io/badge/-Python-333?&logo=Python" />][python]
 [<img align="left" alt="Scala" height="30" src="https://img.shields.io/badge/-Scala-333?&logo=Scala&logoColor=red" />][scala]
 [<img align="left" alt="MySQL" height="30" src="https://img.shields.io/badge/-MySQL-333?&logo=MySQL" />][mysql]
@@ -28,7 +28,7 @@
 [<img align="left" alt="AWS" height="30" src="https://img.shields.io/badge/-AWS-333?&logo=Amazon-AWS&logoColor=F90" />][aws]
 [<img align="left" alt="Akka Framework" height="30" src="https://img.shields.io/badge/-Akka-333?&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzUxIiBoZWlnaHQ9IjM1MSIgdmlld0JveD0iMCAwIDM1MSAzNTEiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTI4Ni43MDcgMjgxLjA4NUMzMzUuNTc4IDMyMC4xMzEgMzY2LjkwNCAyMDMuNTQ5IDI4OS4wMTYgMTgyLjA0N0MyMjMuNjcgMTYzLjk0OCAxNTcuOTExIDE5NC45NzYgOTIuMDA4OCAyNjcuMzQzQzkyLjAwODggMjY3LjM0MyAyMTMuNzIyIDIyMi44NTggMjg2LjcwNyAyODEuMDg1WiIgZmlsbD0iIzBCNTU2NyIvPgogIDxwYXRoIGQ9Ik05My4wOTE1IDI2Ni4zOUMxMzkuOTI0IDIxNy44MzIgMjE3Ljc5OCAxNjMuNjkyIDI5MC4zNjkgMTgzLjY4NEMzMDcuMjU4IDE4OC40NDEgMzE5LjIzIDE5OC4yMzggMzI2Ljk5NyAyMDkuOTQzTDI1OC4zODggNzEuNTg4M0MyNDguNTgyIDU1LjkzODcgMjIzLjUyNyA1OS4yMTM4IDIwOS4zNzUgNzEuMTc1M0wyOC4wMTYzIDIyMy4wMDFDMTEuNTQwOCAyMzcuMTQxIDEwLjU4NTkgMjYyLjMxNyAyNS44MzU3IDI3Ny41NTRDMzkuMzE4MiAyOTEuMDI0IDYwLjY5NjQgMjkyLjI0OSA3NS41MzI5IDI4MC4yNzNMOTMuMDkxNSAyNjYuMzlaIiBmaWxsPSIjMTVBOUNFIi8+Cjwvc3ZnPg==" />][akka]
 [<img align="left" alt="Visual STudio Code" height="30" src="https://img.shields.io/badge/-VS Code-333?&logo=visualstudiocode&logoColor=blue" />][vscode]
-[<img align="left" alt="IntelliJ IDEA" height="30" src="https://img.shields.io/badge/-IntelliJ-333?&logo=intellijidea" />][intellij]
+[<img align="left" alt="IntelliJ IDEA" height="30" src="https://img.shields.io/badge/-IntelliJ-555?&logo=intellijidea" />][intellij]
 
 <br />
 
@@ -65,5 +65,8 @@
 <br />
 <br />
 
-[<img align="left" alt="Visitor" height="30" src="https://badges.pufler.dev/visits/CsabaKarsai/CsabaKarsai" />][profile]
-[<img align="left" alt="Visitor" height="30" src="https://badges.pufler.dev/repos/CsabaKarsai" />][profile]
+<br />
+<br />
+
+[<img align="left" alt="Visitor" height="30" src="https://badges.pufler.dev/visits/CsabaKarsai/CsabaKarsai?color=darkgreen" />][profile]
+[<img align="left" alt="Visitor" height="30" src="https://badges.pufler.dev/repos/CsabaKarsai?color=darkgreen" />][profile]
