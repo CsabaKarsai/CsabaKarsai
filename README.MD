@@ -60,5 +60,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CsabaKarsai&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+<br />
+
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
