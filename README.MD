@@ -3,7 +3,7 @@
 ## I'm a computer science student and looking to improve my skills!
 
 - 🌱 I’m currently learning/improving on Kubernetes, Python and Rust
-- 🥅 2021 Goals: Work on some cool self-made projects
+- 🥅 2022 Goals: Work on some cool self-made projects
 - ⚡ Fun fact: I love to play the organ and soccer
 
 ## Connect with me
